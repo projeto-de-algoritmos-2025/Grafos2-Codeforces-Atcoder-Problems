@@ -4,8 +4,6 @@
 | 202016328  | Geovanna Maciel Avelino da Costa |
 | 211029405 | Leonardo Gonçalves Machado |
 
-# Grafos1-Codeforces-Atcoder-Problems
-
 **Número da Lista**: 2<br>
 **Conteúdo da Disciplina**: Grafos 2
 
