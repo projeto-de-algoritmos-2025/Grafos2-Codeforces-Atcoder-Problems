@@ -3,7 +3,9 @@
 ## Questão 1 - Shortest Path 3
 
 Plataforma: AtCoder
+
 Rating/Dificuldade: 634 (Marrom)
+
 [Tabela de Rankeamento](https://atcoder.jp/posts/16)
 
 ### Enunciado
@@ -29,7 +31,9 @@ A solução consiste em aplicar o algoritmo de Dijkstra levando em conta o peso 
 ## Questão 2 - Greg and Graph
 
 Plataforma: Codeforces
+
 Rating/Dificuldade: 1700 (Expert)
+
 [Tabela de Rankeamento](https://codeforces.com/blog/entry/68288)
 
 ### Enunciado
@@ -61,7 +65,9 @@ Ao adicionar um nó, recalcula-se a menor distância para cada par de nós do gr
 ## Questão 3 - K-th Path
 
 Plataforma: Codeforces
+
 Rating/Dificuldade: 2200 (International Master)
+
 [Tabela de Rankeamento](https://codeforces.com/blog/entry/68288)
 
 
